@@ -1,0 +1,20 @@
+{
+  "account_exists": "حساب کاربری از قبل وجود دارد",
+  "account_not_found": "حساب کاربری پیدا نشد",
+  "bad_request": "اشکال اطلاعات ارسالی",
+  "chat_not_found": "گفت و گو پیدا نشد",
+  "error_in_receiving_a_response_from_the_desired_service": "خطا در دریافت پاسخ از سرویس مورد نظر؛ لطفا با پشتیبانی تماس بگیرید",
+  "forbidden": "دسترسی ندارید",
+  "forbidden_for_action": "شما دسترسی لازم برای انجام این کار را ندارید",
+  "forbidden_use_part": "شما دسترسی لازم برای استفاده از این بخش را ندارید",
+  "image_id_is_wrong": "شناسه عکس اشتباه است؛ لطفا با پشتیبانی تماس بگیرید",
+  "not_found": "پیدا نشد",
+  "old_password_is_incorrect": "رمز عبور فعلی خود را اشتباه وارد کرده اید",
+  "too_many_requests": "در خواست های ارسالی شما بیشتر از حد مجاز است",
+  "unauthorized": "خطا در احراز حساب کاربری",
+  "unknown_error": "یک خطای ناشناخته اتفاق افتاده است؛ لطفا جهت بررسی با پشتیبانی تماس بگیرید. باسپاس از شما",
+  "user_not_found": "کاربر پیدا نشد",
+  "user_exists":"کاربر با این اطلاعات از قبل وجود دارد",
+  "default_permissions_of_role_not_found":"دسترسی های پیشفرض نقش پیدا نشد",
+  "new_account_does_not_created":"اکانت جدید ساخته نشد "
+}

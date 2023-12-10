@@ -1,0 +1,7 @@
+{
+  "username_or_password_is_incorrent": "Username or password is incorrect",
+  "token_is_expired": "Log in again to use the app",
+  "verification_code_is_incorrect": "Verification code is incorrect",
+  "your_time_to_enter_the_program_has_expired_Please_log_in_again_from_the_beginning": "Your time to enter the program has expired; Please log in again from the beginning",
+  "your_time_to_register_the_program_has_expired_Please_register_again_from_the_beginning": "Your time to register the program has expired; Please register again from the beginning"
+}

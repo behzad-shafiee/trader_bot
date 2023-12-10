@@ -1,0 +1,6 @@
+{
+  "meeting_not_found": "نشست پیدا نشد",
+  "member_not_found": "عضو پیدا نشد",
+  "you_are_already_a_member_of_this_meeting": "شما از قبل عضو این نشست هستید",
+  "you_cannot_do_this_while_the_session_is_running": "در زمان نشست اجرای نشست، نمی توانید این کار را انجام دهید"
+}

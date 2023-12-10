@@ -1,0 +1,6 @@
+{
+  "username_or_password_is_incorrent": "نام کاربری یا رمزعبور اشتباه است",
+  "token_is_expired": "برای استفاده از برنامه مجددا وارد شوید",
+  "verification_code_is_incorrect": "کد وارد شده اشتباه است",
+  "your_time_to_enter_the_program_has_expired_Please_log_in_again_from_the_beginning": "زمان شما برای ورود به برنامه به پایان رسیده؛ لطفا از ابتدا مجددا اقدام به ورود نمایید"
+}

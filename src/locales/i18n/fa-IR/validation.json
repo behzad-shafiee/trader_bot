@@ -1,0 +1,13 @@
+{
+  "matches":"",
+  "is_not_empty_object": "$t(fields.lower_case.{field}) نمی تواند خالی باشد",
+  "is_number": "$t(fields.lower_case.{field}) باید به صورت عدد وارد شود",
+  "is_number_string": "$t(fields.lower_case.{field}) باید به صورت عدد وارد شود",
+  "is_optional": "$t(fields.lower_case.{field}) اختیاری است",
+  "is_string": "$t(fields.lower_case.{field}) باید به صورت متن وارد شود",
+  "length": "مقدار $t(fields.lower_case.{field}) باید {length} واحد باشد",
+  "length_string": "$t(fields.lower_case.{field}) باید {length} حرف باشد",
+  "duplicated_field": "فیلد یونیک را تکراری وارد کرده اید",
+  "is_not_empty": "$t(fields.lower_case.{field}) نمی تواند خالی باشد",
+  "is_date":"$t(fields.lower_case.{field}) باید به صورت تاریخ وارد شود"
+}

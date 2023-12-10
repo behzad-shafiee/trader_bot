@@ -1,0 +1,6 @@
+{
+  "meeting_not_found": "Meeting not found",
+  "member_not_found": "Member not found",
+  "you_are_already_a_member_of_this_meeting": "You are already a member of this meeting",
+  "you_cannot_do_this_while_the_session_is_running": "You cannot do this while the session is running"
+}

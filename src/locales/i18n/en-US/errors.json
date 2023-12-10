@@ -1,0 +1,20 @@
+{
+  "account_exists": "Account exists",
+  "account_not_found": "Account not found",
+  "bad_request": "Bad request exception",
+  "chat_not_found": "Chat not found",
+  "error_in_receiving_a_response_from_the_desired_service": "Error in receiving a response from the desired service",
+  "forbidden": "Access forbidden",
+  "forbidden_for_action": "Access forbidden",
+  "forbidden_use_part": "Access forbidden",
+  "image_id_is_wrong": "The image id is wrong; please contact with support us",
+  "not_found": "Not found",
+  "old_password_is_incorrect": "Old password is incorrect",
+  "too_many_requests": "Too many requests",
+  "unauthorized": "User unauthorized",
+  "unknown_error": "Unknown error; please contact with us to support and fix this error.",
+  "user_not_found": "User not found",
+  "user_exists":"User with this info already exists",
+  "default_permissions_of_role_not_found":"Default_permissions_of_role not found",
+  "new_account_does_not_created":"New account does not created"
+}

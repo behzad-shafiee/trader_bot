@@ -1,0 +1,13 @@
+{
+  "matches":"$t(fields.lower_case.{field}) must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+  "is_not_empty_object": "The $t(fields.lower_case.{field}) can not be empty",
+  "is_number": "The $t(fields.lower_case.{field}) value must be number",
+  "is_number_string": "The $t(fields.lower_case.{field}) value must be string number",
+  "is_optional": "The $t(fields.lower_case.{field}) value is optional",
+  "is_string": "The $t(fields.lower_case.{field}) value must be string",
+  "length": "The $t(fields.lower_case.{field}) length must be {length}",
+  "length_string": "The $t(fields.lower_case.{field}) length must be {length} characters",
+  "duplicated_field": "field is duplicated",
+  "is_not_empty":"The $t(fields.lower_case.{field}) can not be empty",
+  "is_date":"The $t(fields.lower_case.{field}) value must be date"
+}
